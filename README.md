@@ -11,7 +11,7 @@ Cybersecurity | Artificial Intelligence | Python Programming
 I am a dedicated Computer Science student with a strong foundation in cybersecurity principles, network security, and Python-based problem solving. My academic journey has equipped me with both theoretical knowledge and hands-on technical skills. I am committed to building secure, efficient, and scalable solutions that address real-world challenges.
 
 - 📍 **Location:** Rawalpindi, Pakistan
-- 📧 **Email:** haniyaatiq2@gmail.com
+- 📧 **Email:** [haniyaatiq2@gmail.com](mailto:haniyaatiq2@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/haniya-atiq](https://www.linkedin.com/in/haniya-atiq/)
 
 ---
