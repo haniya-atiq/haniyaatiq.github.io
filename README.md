@@ -54,15 +54,15 @@ Built a Knight Travails GUI in Java to visualize and compute the shortest path o
 
 ## 🧠 Soft Skills
 
-- 🧩 **Problem Solving** — Breaking down complex problems into logical steps
-- 🤝 **Team Collaboration** — Working effectively in group projects
-- 🗣️ **Communication** — Presenting technical concepts to non-technical audiences
-- ⏱️ **Time Management** — Balancing academics, projects, and certifications
-- 🔍 **Attention to Detail** — Writing clean, well-documented code
-- 📈 **Self Learning** — Continuously upskilling through online courses
-- 💭 **Critical Thinking** — Analyzing problems deeply to reach well-reasoned solutions
-- 💡 **Creativity** — Tackling technical challenges with innovative thinking
+- 🧩 **Problem Solving:** Breaking down complex problems into logical steps
+- 🤝 **Team Collaboration:** Working effectively in group projects
+- 🗣️ **Communication:** Presenting technical concepts to non-technical audiences
+- ⏱️ **Time Management:** Balancing academics, projects, and certifications
+- 🔍 **Attention to Detail:** Writing clean, well-documented code
+- 📈 **Self Learning:** Continuously upskilling through online courses
+- 💭 **Critical Thinking:** Analyzing problems deeply to reach well-reasoned solutions
+- 💡 **Creativity:** Tackling technical challenges with innovative thinking
 
 ---
 
-📬 *Whether it's a project, internship, or open-source contribution — I'd love to connect and collaborate!*
+📬 *Whether it's a project, internship, or open-source contribution, I'd love to connect and collaborate!*
