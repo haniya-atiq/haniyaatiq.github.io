@@ -1,6 +1,6 @@
 # Haniya Atiq | CS Undergraduate
 
-**Cybersecurity | Artificial Intelligence | Python Programming**
+Cybersecurity | Artificial Intelligence | Python Programming
 
 > Professional GitHub portfolio. Currently pursuing a Bachelor of Science in Computer Science at **Fatima Jinnah Women University** (2024 – 2028).
 
