@@ -1,4 +1,3 @@
-<img src="WhatsApp Image 2026-04-23 at 11.48.11 PM.jpeg" width="150" height="150" alt="Haniya Atiq"/>
 # Haniya Atiq | CS Undergraduate
 
 Cybersecurity | Artificial Intelligence | Python Programming
