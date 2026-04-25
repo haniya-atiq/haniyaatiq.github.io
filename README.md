@@ -22,11 +22,11 @@ I am a dedicated Computer Science student with a strong foundation in cybersecur
 ---
 
 ## 🎓 Education
-| Degree | Institution | Year |
-|--------|------------|------|
-| Matriculation (Science) | Sir Syed Public School | 2020 – 2022 |
-| Intermediate (ICS-Physics) | Punjab Group of Colleges | 2022 – 2024 |
-| BS Computer Science | Fatima Jinnah Women University | 2024 – 2028 |
+| Degree | Institution | Year | Grade |
+|--------|------------|------|-------|
+| Matriculation (Science) | Sir Syed Public School | 2020 – 2022 | A+ |
+| Intermediate (ICS-Physics) | Punjab Group of Colleges | 2022 – 2024 | A+ |
+| BS Computer Science | Fatima Jinnah Women University | 2024 – 2028 | A |
 
 ---
 
