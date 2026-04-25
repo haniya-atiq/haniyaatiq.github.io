@@ -10,9 +10,23 @@ Cybersecurity | Artificial Intelligence | Python Programming
 
 I am a dedicated Computer Science student with a strong foundation in cybersecurity principles, network security, and Python-based problem solving. My academic journey has equipped me with both theoretical knowledge and hands-on technical skills. I am committed to building secure, efficient, and scalable solutions that address real-world challenges.
 
+---
+
+## 📞 Contact
+
 - 📍 **Location:** Rawalpindi, Pakistan
 - 📧 **Email:** [haniyaatiq2@gmail.com](mailto:haniyaatiq2@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/haniya-atiq](https://www.linkedin.com/in/haniya-atiq/)
+- 🐙 **GitHub:** [github.com/haniya-atiq](https://github.com/haniya-atiq)
+
+---
+
+## 🎓 Education
+| Degree | Institution | Year |
+|--------|------------|------|
+| Matriculation (Science) | [Your School]Sir Syed Public School | 2020 – 2022 |
+| Intermediate (ICS-Physics) | Punjab Group of Colleges | 2022 – 2024 |
+| BS Computer Science | Fatima Jinnah Women University | 2024 – 2028 |
 
 ---
 
@@ -36,6 +50,15 @@ Designed and configured a virtual network environment using VirtualBox and Cisco
 ### ♞ Knight Travails GUI
 Built a Knight Travails GUI in Java to visualize and compute the shortest path of a knight's movement on a chessboard using graph traversal algorithms.
 
+### 📡 Motion Detector ESP32
+Developed an IoT-based motion detection system using ESP32 and PIR sensor with real-time notifications via the Blynk app.
+
+### ✈️ Flight Reservation System
+Built a Java Swing desktop application for searching and booking flights with Oracle database connectivity.
+
+### 🎮 Tic-Tac-Toe Game
+Developed a two-player Tic-Tac-Toe game in C with file logging that records all moves and saves the final result.
+
 ---
 
 ## 🏅 Certifications & Honors
@@ -43,6 +66,12 @@ Built a Knight Travails GUI in Java to visualize and compute the shortest path o
 - **CodeAlpha Python Programming**
 - **Honhaar Scholarship Award** *(Dec 2024)*
 - **Chief Minister's Laptop Program** *(Sep 2025)*
+
+---
+
+## 🌍 Languages
+- 🇵🇰 Urdu — Native
+- 🇬🇧 English — Professional
 
 ---
 
