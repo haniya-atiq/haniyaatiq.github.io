@@ -24,7 +24,7 @@ I am a dedicated Computer Science student with a strong foundation in cybersecur
 ## 🎓 Education
 | Degree | Institution | Year |
 |--------|------------|------|
-| Matriculation (Science) | [Your School]Sir Syed Public School | 2020 – 2022 |
+| Matriculation (Science) | Sir Syed Public School | 2020 – 2022 |
 | Intermediate (ICS-Physics) | Punjab Group of Colleges | 2022 – 2024 |
 | BS Computer Science | Fatima Jinnah Women University | 2024 – 2028 |
 
@@ -70,8 +70,8 @@ Developed a two-player Tic-Tac-Toe game in C with file logging that records all 
 ---
 
 ## 🌍 Languages
-- 🇵🇰 Urdu — Native
-- 🇬🇧 English — Professional
+- Urdu — Native
+- English — Professional
 
 ---
 
